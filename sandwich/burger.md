@@ -1,5 +1,5 @@
 steack
 salade
-tomate
+tomat
 cornichon
-fromage
+fromages
